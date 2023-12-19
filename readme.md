@@ -1,6 +1,5 @@
 # atm locator web scraper
 ---
-job listing: https://www.upwork.com/jobs/~01b797bc43b8fe3900
 contractor needs the ATM's info in all of Canada scraped from the following website https://www.theexchangenetwork.ca/find-an-atm/#top
 ---
 ### constraints
